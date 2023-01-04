@@ -1,0 +1,58 @@
+body{
+    font-family: Georgia;
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616__480.jpg  ") ;
+}
+
+#title{
+    font-size: 40px;
+    color:rgb(255, 255, 255);
+    text-decoration: underline;
+
+}
+
+ul{
+
+    background-color: rgb(255, 253, 127);
+    width: 250px;
+    height: 95px;
+    line-height: 24px ;
+    list-style: none;
+    padding-left: 0px;
+    outline: 1px black;
+    outline-style: solid;
+}
+
+a{
+
+    text-decoration: none;
+    display: block;
+    color: black;
+    padding-left: 5px;
+}
+
+a:hover{
+
+    background-color: rgb(197, 186, 186);
+    color: red;
+
+}
+
+a:active{
+
+    background-color: black;
+    color:white;
+
+}
+
+ul li:first-child a:hover{
+
+    background-color: cyan;
+    color: rgb(13, 12, 87);
+
+}
+
+ul li:first-child a:active{
+
+    background-color: rgb(183, 128, 235);
+    color: crimson;
+}

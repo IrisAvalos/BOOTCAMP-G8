@@ -1,0 +1,32 @@
+.tabla-info{
+
+    border: 1px gray;
+    border-style: solid;
+
+}
+
+.titulo{
+
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium';
+    background-color: rgb(255, 217, 119);
+    height: 45px;
+    
+}
+
+.imagen{
+
+    text-align: center;
+}
+
+.info-personal{
+    background-color: rgb(255, 217, 119);
+}
+
+.familia{
+    background-color: rgb(255, 217, 119);
+}
+
+.educacion{
+    background-color: rgb(255, 217, 119);
+}

@@ -1,0 +1,49 @@
+h1{
+    color:rgb(21, 189, 15);
+    background-color: aquamarine;
+    font-size: 40px;
+    font-family:Arial;
+
+}
+
+p{
+    color:rgb(9, 23, 148);
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+}
+
+div{
+
+    background-color: rgb(243, 234, 154);
+    border: 10px black;
+    border-style:solid;
+    border-radius: 50px;
+    
+}
+
+.hola{
+
+    color:crimson;
+
+}
+
+.hola1{
+    color:green;
+
+}
+
+.hola2{
+    color:deeppink;
+}
+
+.hola3{
+    color:black;
+}
+
+.cajita{
+
+    background-color: aquamarine;
+    border: 15px red;
+    border-style: dotted;
+
+}
